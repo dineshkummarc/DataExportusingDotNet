@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestMyControls", "http://localhost/TestMyControls/TestMyControls.vbproj", "{FE041AEC-C398-496A-88B2-BC91E997864D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PNayak.Web.UI.WebControls.ExportButton", "..\PNWebControls\PNayak.Web.UI.WebControls.ExportButton.vbproj", "{AFAF5BEF-F478-47FF-86CF-1346C0C3FC0C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FE041AEC-C398-496A-88B2-BC91E997864D}.Debug.ActiveCfg = Debug|.NET
+		{FE041AEC-C398-496A-88B2-BC91E997864D}.Debug.Build.0 = Debug|.NET
+		{FE041AEC-C398-496A-88B2-BC91E997864D}.Release.ActiveCfg = Release|.NET
+		{FE041AEC-C398-496A-88B2-BC91E997864D}.Release.Build.0 = Release|.NET
+		{AFAF5BEF-F478-47FF-86CF-1346C0C3FC0C}.Debug.ActiveCfg = Debug|.NET
+		{AFAF5BEF-F478-47FF-86CF-1346C0C3FC0C}.Debug.Build.0 = Debug|.NET
+		{AFAF5BEF-F478-47FF-86CF-1346C0C3FC0C}.Release.ActiveCfg = Release|.NET
+		{AFAF5BEF-F478-47FF-86CF-1346C0C3FC0C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
